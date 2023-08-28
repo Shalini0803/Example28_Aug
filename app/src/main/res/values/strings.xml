@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string-array name="quqntity_string_array">
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+       <item>5(MAX)</item>
+
+
+
+   </string-array>
+</resources>
